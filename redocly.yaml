@@ -1,0 +1,5 @@
+plugins:
+  - './plugins/decorators/hide-info-version.js'
+
+decorators:
+  myUniqueId/hideInfoVersion: on
